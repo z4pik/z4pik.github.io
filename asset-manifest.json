@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa888891.css",
+    "main.js": "/static/js/main.d33164cb.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/Property 1=Default 1.png": "/static/media/Property 1=Default 1.1c027c4bccfa56442928.png",
+    "static/media/iPhone 13 Mockup.png": "/static/media/iPhone 13 Mockup.2cce641e47a450b3a500.png",
+    "static/media/App pre image.png": "/static/media/App pre image.8977e00556c0d8dd199f.png",
+    "static/media/iPhone 13 Download.png": "/static/media/iPhone 13 Download.ca64a2f0960923fe9031.png",
+    "static/media/AidosKuneen.svg": "/static/media/AidosKuneen.74827b5a03be3d8f39a05d3d9db87477.svg",
+    "static/media/Main Chart 2.png": "/static/media/Main Chart 2.096542964139a8cde0e9.png",
+    "static/media/Btc-graph.png": "/static/media/Btc-graph.4ded8ff30e6b937583b9.png",
+    "static/media/Adcoin.svg": "/static/media/Adcoin.39ce26cd6cafff105244fa533fcc804a.svg",
+    "static/media/Akropolis.svg": "/static/media/Akropolis.b851b84862349b540e7707db6b6ef521.svg",
+    "static/media/AcalaNetwork.svg": "/static/media/AcalaNetwork.478ed5fe87e85b2ede1bdc4071e91a19.svg",
+    "static/media/cloud-rain.svg": "/static/media/cloud-rain.07134fe1f2311060d5363e636081686b.svg",
+    "static/media/Achain.svg": "/static/media/Achain.d4b4e399ca96a58979b57d47df7d8c22.svg",
+    "static/media/shield.svg": "/static/media/shield.69b31ed275e699f14207015975baaa4a.svg",
+    "static/media/check-circle.svg": "/static/media/check-circle.333105700b61aee9b2e4934e095b5fba.svg",
+    "static/media/plus-circle.svg": "/static/media/plus-circle.7fe5b60ef18ff68d8159b4fbeb32cf9e.svg",
+    "index.html": "/index.html",
+    "static/media/log-in.svg": "/static/media/log-in.cb5549ab1f269450b29a69312e0f00bf.svg",
+    "static/media/grid.svg": "/static/media/grid.945408e6da194290442eb88282666865.svg",
+    "static/media/logo-gray.svg": "/static/media/logo-gray.114e1b5d5007685f835e3f62f96b844e.svg",
+    "static/media/logo.svg": "/static/media/logo.1bc03ad0744c3754797bdba98efd5e06.svg",
+    "static/media/minus-circle.svg": "/static/media/minus-circle.2a36776ec7112af6e8fc03e73446b7e6.svg",
+    "static/media/repeat.svg": "/static/media/repeat.2e8ea4572033fdade9e263179a09df81.svg",
+    "static/media/star.svg": "/static/media/star.1ec3380b46c92e7826cbc00c4ddbd5d0.svg",
+    "main.fa888891.css.map": "/static/css/main.fa888891.css.map",
+    "main.d33164cb.js.map": "/static/js/main.d33164cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa888891.css",
+    "static/js/main.d33164cb.js"
+  ]
+}
